@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://maikocode.github.io/Recipe-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://maikocode.github.io/Recipe-page/">
       Solution
     </a>
     <span> | </span>
@@ -37,12 +37,12 @@
 
 - Desktop version:
 
-![screenshot]()
+![screenshot](./desktop-version.png)
 
 
 - Mobile version:
 
-![screenshot]()
+![screenshot](./mobile-version.png)
 
 
 ### Built With
@@ -51,5 +51,5 @@ HTML && CSS
 
 ## Contact
 
-- GitHub [@MaikoCode]()
-- Twitter [@Maikoke5]()
+- GitHub [@MaikoCode](https://github.com/MaikoCode)
+- Twitter [@Maikoke5](https://twitter.com/Maikoke5)
